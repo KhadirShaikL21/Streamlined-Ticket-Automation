@@ -340,6 +340,6 @@ This project is released under the MIT License. You may use, modify, and distrib
 
 Maintainers
 
-Project Owner: You / Your Team
+Project Owner: Khadir
 
-Contact: your.email@example.com 
+Contact: khadirshaik.com 
